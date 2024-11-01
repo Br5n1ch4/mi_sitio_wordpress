@@ -1,0 +1,17 @@
+# Ignora archivos y carpetas de WordPress innecesarios
+/wp-config.php
+/wp-content/uploads
+/wp-content/cache
+/wp-content/upgrade
+
+# Ignora archivos de XAMPP y del sistema
+.htaccess
+.DS_Store
+Thumbs.db
+
+# Ignora archivos temporales y binarios
+*.log
+*.sql
+*.tar
+*.gz
+*.zip
